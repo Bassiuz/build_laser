@@ -25,11 +25,15 @@ Stop scrolling through thousands of lines of terminal noise. **Build Laser** par
 
 You can install it globally to use it in any project:
 
+```bash
 dart pub global activate build_laser
+```
 
 Or add it to your project as a dev dependency:
 
+```bash
 dart pub add --dev build_laser
+```
 
 ## 🛠 Usage
 
