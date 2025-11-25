@@ -1,0 +1,15 @@
+name: build_laser
+description: A CLI tool to run build_runner with clean, actionable output.
+version: 1.0.0
+repository: https://github.com/Bassiuz/build_laser
+homepage: https://github.com/Bassiuz/build_laser
+issue_tracker: https://github.com/Bassiuz/build_laser/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+executables:
+  build_laser:
+
+dependencies:
+  args: ^2.4.0
